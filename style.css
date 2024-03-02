@@ -1,11 +1,21 @@
 body{
     font-family: "Rockwell";
+    background-color: rgb(219, 208, 208);
 }
 
-main{
-    font-size: 12px;
+nav{
+    margin-bottom: 20px;
+}
+
+p{
+    font-size: 18px;
+    text-align: justify;
 }
 
 footer{
-    
+    font-size: 12px;
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    margin-top: 20px;
 }
